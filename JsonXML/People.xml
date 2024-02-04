@@ -1,0 +1,89 @@
+<task>
+    <lessons>18</lessons>
+    <autor>Natalia Boicheniuk</autor>
+    <people>
+    	<name>Ivan Ivanov</name>
+    	<id>9001</id>
+    	<adress>
+    		<city>Kyiv</city>
+    		<street>Shevchenko Street</street>
+    		<house>12</house>
+    		<apartmentNumber>34</apartmentNumber>
+    	</adress>
+    	<contacts>
+    		<description>business contact</description>
+    		<phoneNumber>+380501234567</phoneNumber>
+    		<email>ivanov@gmail.com</email>
+    		<skype>ivanov_ivan</skype>
+    	</contacts>
+    	<contacts>
+    		<description>home contact</description>
+    		<phoneNumber></phoneNumber>
+    		<email></email>
+    		<skype>home_ivanov_ivan</skype>
+    	</contacts>
+    </people>
+    <people>
+    	<name>Maria Petrenko</name>
+    	<id>9002</id>
+    	<adress>
+    		<city>Lviv</city>
+    		<street>Franko Street</street>
+    		<house>45</house>
+    		<apartmentNumber>78</apartmentNumber>
+    	</adress>
+    	<contacts>
+    		<phoneNumbers>+380501234568</phoneNumbers>
+    		<email>petrenko@gmail.com</email>
+    		<Skype>petrenko_maria</Skype>
+    	</contacts>
+    	<contacts>
+    		<description>home contact</description>
+    		<phoneNumber></phoneNumber>
+    		<email></email>
+    		<skype></skype>
+    	</contacts>
+    </people>
+    <people>
+    	<name>Oleksandr Kovalenko</name>
+    	<id>9003</id>
+    	<adress>
+    		<city>Odesa</city>
+    		<street>Deribasivska Street</street>
+    		<house>23</house>
+    		<apartmentNumber></apartmentNumber>
+    	</adress>
+    	<contacts>
+    		<phoneNumbers>+380501234569</phoneNumbers>
+    		<email>kovalenko@gmail.com</email>
+    		<Skype>ivanov_ivan</Skype>
+    	</contacts>
+    	<contacts>
+    		<description>home contact</description>
+    		<phoneNumber></phoneNumber>
+    		<email></email>
+    		<skype></skype>
+    	</contacts>
+    </people>
+    <people>
+    	<name>Natalia Shevchenko</name>
+    	<id>9004</id>
+    	<adress>
+    		<city>Kharkiv</city>
+    		<street>Sumska Street</street>
+    		<house></house>
+    		<apartmentNumber></apartmentNumber>
+    	</adress>
+    	<contacts>
+    		<phoneNumbers>+380501234570</phoneNumbers>
+    		<email>shevchenko@gmail.com</email>
+    		<Skype>shevchenko_natalia</Skype>
+    	</contacts>
+    	<contacts>
+    		<description>home contact</description>
+    		<phoneNumber>+380441234567</phoneNumber>
+    		<email></email>
+    		<skype>home_ivanov_ivan</skype>
+    	</contacts>
+    </people>
+</task>

@@ -1,0 +1,99 @@
+{
+  "lessons": 18,
+  "autor": "Natalia Boicheniuk",
+  "people": [
+    {
+      "name": "Ivan Ivanov",
+      "id": 9001,
+      "adress": {
+        "city": "Kyiv",
+        "street": "Shevchenko Street",
+        "house": 12,
+        "apartmentNumber": 34
+      },
+      "contacts": [
+        {
+          "description": "business contact",
+          "phoneNumber": "+380501234567",
+          "email": "ivanov@gmail.com",
+          "skype": "ivanov_ivan"
+        },
+        {
+          "description": "home contact",
+          "phoneNumber": null,
+          "email": null,
+          "skype": "home_ivanov_ivan"
+        }
+      ]
+    },
+    {
+      "name": "Maria Petrenko",
+      "id": 9002,
+      "adress": {
+        "city": "Lviv",
+        "street": "Franko Street",
+        "house": 45,
+        "apartmentNumber": 78
+      },
+      "contacts": [
+        {
+          "phoneNumbers": "+380501234568",
+          "email": "petrenko@gmail.com",
+          "Skype": "petrenko_maria"
+        },
+        {
+          "description": "home contact",
+          "phoneNumber": null,
+          "email": null,
+          "skype": null
+        }
+      ]
+    },
+    {
+      "name": "Oleksandr Kovalenko",
+      "id": 9003,
+      "adress": {
+        "city": "Odesa",
+        "street": "Deribasivska Street",
+        "house": 23,
+        "apartmentNumber": null
+      },
+      "contacts": [
+        {
+          "phoneNumbers": "+380501234569",
+          "email": "kovalenko@gmail.com",
+          "Skype": "ivanov_ivan"
+        },
+        {
+          "description": "home contact",
+          "phoneNumber": null,
+          "email": null,
+          "skype": null
+        }
+      ]
+    },
+    {
+      "name": "Natalia Shevchenko",
+      "id": 9004,
+      "adress": {
+        "city": "Kharkiv",
+        "street": "Sumska Street",
+        "house": null,
+        "apartmentNumber": null
+      },
+      "contacts": [
+        {
+          "phoneNumbers": "+380501234570",
+          "email": "shevchenko@gmail.com",
+          "Skype": "shevchenko_natalia"
+        },
+        {
+          "description": "home contact",
+          "phoneNumber": "+380441234567",
+          "email": null,
+          "skype": "home_ivanov_ivan"
+        }
+      ]
+    }
+  ]
+}
