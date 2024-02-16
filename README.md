@@ -70,9 +70,10 @@ Here write some project description
 
 ### 12.MobileTesting 
 [MobileTesting][link12]
-Here write some project description
-
-[link12]: 
+- Manual testing of mobile TODO App.
+- Created bug reports.
+  
+[link12]: https://github.com/natabmas/GoIT/tree/main/MobileTesting
 
 ###  JavaScript
 [JavaScript][link13]
